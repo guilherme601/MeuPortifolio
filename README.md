@@ -12,7 +12,11 @@
 
 ### 💡 Sobre mim
 
-Sou apaixonado por tecnologia e estou focado em me tornar um desenvolvedor front-end completo. Atualmente estudo **HTML**, **CSS**, **JavaScript** e estou sempre praticando com projetos reais, buscando evoluir e aplicar o que aprendo no dia a dia.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) e em formação complementar na Formação Full Stack da Alura, com foco em capacitação prática nas principais tecnologias do mercado.
+
+Conhecimentos em desenvolvimento web, atuando com HTML5, CSS3, JavaScript, React e Angular no front-end, e Node.js, APIs REST e SQL no back-end. Familiaridade com ferramentas como Git, GitHub, versionamento de código e metodologias ágeis.
+
+Busco minha primeira oportunidade na área de Tecnologia da Informação, com foco em Desenvolvimento Web, para aplicar meus conhecimentos, colaborar com dedicação e seguir aprendendo de forma contínua.
 
 ---
 
