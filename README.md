@@ -42,7 +42,7 @@ Busco minha primeira oportunidade na área de Tecnologia da Informação, com fo
 | [Portfólio Pessoal](https://github.com/seu-usuario/portfolio-front-end) | Meu portfólio online com minhas informações e projetos. |
 | [ToDo List App](https://github.com/seu-usuario/todo-app) | Aplicação simples para gerenciar tarefas com JavaScript. |
 | [Landing Page Responsiva](https://github.com/seu-usuario/landing-page) | Página moderna e responsiva feita com HTML e CSS. |
-
+                                                AINDA EM DESENVOLVIMENTO
 ---
 
 ### 📫 Como me encontrar
