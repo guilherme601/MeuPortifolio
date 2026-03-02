@@ -12,12 +12,11 @@
 
 ### 💡 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) e em formação complementar na Formação Full Stack da Alura, com foco em capacitação prática nas principais tecnologias do mercado.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente atuo na área de Tecnologia da Informação, participando ativamente de projetos e do desenvolvimento de soluções internas, colocando em prática conhecimentos de programação e boas práticas de desenvolvimento.
 
-Conhecimentos em desenvolvimento web, atuando com HTML5, CSS3, JavaScript, React e Angular no front-end, e Node.js, APIs REST e SQL no back-end. Familiaridade com ferramentas como Git, GitHub, versionamento de código e metodologias ágeis.
+Também realizo formação complementar em Full Stack, com foco na construção de aplicações web modernas, buscando evolução contínua tanto no front-end quanto no back-end.
 
-Busco minha primeira oportunidade na área de Tecnologia da Informação, com foco em Desenvolvimento Web, para aplicar meus conhecimentos, colaborar com dedicação e seguir aprendendo de forma contínua.
-
+Tenho experiência no desenvolvimento de interfaces, consumo de APIs e organização de código utilizando ferramentas de versionamento e metodologias ágeis, sempre com foco em aprendizado constante e melhoria técnica.
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo
