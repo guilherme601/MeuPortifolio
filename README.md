@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas  
   <br/>
-  💻 Desenvolvedor Front-end em formação  
+  💻 Desenvolvedor Software  
   <br/>
   🚀 Em busca da minha primeira oportunidade na área de TI  
 </p>
